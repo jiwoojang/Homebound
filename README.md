@@ -12,4 +12,4 @@ Made with Unity 3D
 ## Screenshots
 
 ![](Assets/PNG/screen_1.png)
-![](Assets/PNG/screen_1.png)
+![](Assets/PNG/screen_2.png)
